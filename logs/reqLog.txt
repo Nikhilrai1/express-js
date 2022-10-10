@@ -1,8 +1,0 @@
-Sun Oct 09 2022 19:46:20 GMT+0545 (Nepal Time)	 /fgg 	 GET 
-Sun Oct 09 2022 19:46:20 GMT+0545 (Nepal Time)	 /css/style.css 	 GET 
-Sun Oct 09 2022 19:46:20 GMT+0545 (Nepal Time)	 /index 	 GET 
-Sun Oct 09 2022 19:46:20 GMT+0545 (Nepal Time)	 /css/style.css 	 GET 
-Sun Oct 09 2022 19:46:20 GMT+0545 (Nepal Time)	 /img/node.png 	 GET 
-Sun Oct 09 2022 19:46:20 GMT+0545 (Nepal Time)	 /dd 	 GET 
-Sun Oct 09 2022 19:46:20 GMT+0545 (Nepal Time)	 /css/style.css 	 GET 
-Sun Oct 09 2022 19:49:13 GMT+0545 (Nepal Time)	 /dd 	 GET 

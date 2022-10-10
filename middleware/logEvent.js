@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path")
 const date = new Date();
 
-const logEvent = async (message,logName) => {
+const logEvent = async (message, logName) => {
     const logItem = `${date}\t ${message} \n`
     if (!fs.existsSync(path.join(__dirname, "logs"))) {
         await fsPromises.mkdir(path.join(__dirname, "logs"))
@@ -16,4 +16,10 @@ const logEvent = async (message,logName) => {
     }
 }
 
-module.exports = logEvent;
+const logger = (req, res, next) => {
+    logEvent(`${req.method}\t ${req.headers.origin} \t ${req.url}`, "reqLog.txt")
+    console.log(`${req.method} ${req.path}`)
+    next();
+}
+
+module.exports = { logger, logEvent };
