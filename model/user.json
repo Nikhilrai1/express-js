@@ -1,0 +1,27 @@
+[
+    {
+        "username": "nikhil",
+        "password": "$2b$10$/8QU37iql7RBuZBEXdHJXu9bv38lUvtagObyEMcksHddf909fNO/K",
+        "roles": {
+            "Admin": 5150,
+            "Editor": 1980,
+            "User": 2001
+        },
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5pa2hpbCIsImlhdCI6MTY2NTQ3MTA5MSwiZXhwIjoxNjY1NTU3NDkxfQ.KI1sqrA-V6GOH8Ds7x4clC7ZDDPhJNrnG6i75xnhcMw"
+    },
+    {
+        "username": "json",
+        "password": "$2b$10$6GlQxPOuqmrTAjH0GckslO9Qjbimyti4zxujuLrOQBNIf/uDUggxO",
+        "roles": {
+            "User": 2001
+        }
+    },
+    {
+        "username": "kookie",
+        "password": "$2b$10$OEyzg2r8QgSLdzrAgiNgNOftW19SwZEwOQtqqoBVd2YG6kkItaFwa",
+        "roles": {
+            "Editor": 1980,
+            "User": 2001
+        }
+    }
+]

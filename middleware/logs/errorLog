@@ -1,2 +1,5 @@
 Mon Oct 10 2022 11:57:39 GMT+0545 (Nepal Time)	 Error 	 Not allowed. 
 Mon Oct 10 2022 11:59:38 GMT+0545 (Nepal Time)	 Error 	 Not allowed. 
+Tue Oct 11 2022 09:52:39 GMT+0545 (Nepal Time)	 TypeError 	 req.headers is not a function 
+Tue Oct 11 2022 10:00:34 GMT+0545 (Nepal Time)	 TypeError 	 authHeader.split is not a function 
+Tue Oct 11 2022 10:00:34 GMT+0545 (Nepal Time)	 TypeError 	 authHeader.split is not a function 
